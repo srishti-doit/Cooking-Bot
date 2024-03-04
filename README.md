@@ -1,2 +1,2 @@
   # Cooking-Bot
-  This is my project on github
+  This is my project on GitHub
